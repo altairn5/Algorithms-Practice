@@ -4,6 +4,10 @@ This repo is intended to serve as practice for interview
 questions and learning data structures.
 
 I use different sources for algorithms problems. 
+If a solution to a problem is not mine, I will make sure to specify it in the top of the solution page.
+```Javascript
+ Example: /*NOT MY ANSWER*/
+```
 My sole intention is to practice algorithms and improve problem solving 
 techniques. 
 
